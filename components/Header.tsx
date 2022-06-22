@@ -1,8 +1,8 @@
-import { Text } from '@chakra-ui/react'
+import { Heading } from '@chakra-ui/react'
 
 const Header = () => {
   return (
-    <Text>Header</Text>
+    <Heading>Header</Heading>
   )
 }
 
